@@ -1,0 +1,23 @@
+name: Pinion
+favicon: null
+layout_spectrum: 0.15624044300056994
+typography_spectrum: 0.04292894899845123
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8174183494411409
+  lightness: 0.576933067990467
+  saturation: 0.5001732660457492
+  rhythmicContrast: 0.32180204219184816
+purpose: []
